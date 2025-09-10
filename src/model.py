@@ -147,7 +147,9 @@ class StockPredictor:
     
     def load_model(self, filepath):
         """Load model and metadata"""
-        checkpoint = torch.load(filepath, map_location=self.device)
+        # checkpoint = torch.load(filepath, map_location=self.device)
+        checkpoint = torch.load(filepath, map_location=self.device, weights_only=False)
+
         
         # Create model with saved parameters
         params = checkpoint['model_params']
