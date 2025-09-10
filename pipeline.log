@@ -1,0 +1,64 @@
+2025-09-10 14:57:10,714 - INFO - ============================================================
+2025-09-10 14:57:10,715 - INFO - STARTING AUTOMATED UPDATE PIPELINE
+2025-09-10 14:57:10,715 - INFO - ============================================================
+2025-09-10 14:57:11,245 - INFO - Saved initial NIFTY 50 stock list
+2025-09-10 14:57:11,245 - INFO - Starting data update...
+2025-09-10 14:57:13,647 - ERROR - $HCLTECH.NS: possibly delisted; no price data found  (1d 2025-09-10 -> 2025-09-10)
+2025-09-10 14:57:13,945 - ERROR - $WIPRO.NS: possibly delisted; no price data found  (1d 2025-09-10 -> 2025-09-10)
+2025-09-10 14:57:14,413 - ERROR - $HDFCLIFE.NS: possibly delisted; no price data found  (1d 2025-09-10 -> 2025-09-10)
+2025-09-10 14:57:15,131 - ERROR - $TCS.NS: possibly delisted; no price data found  (1d 2025-09-10 -> 2025-09-10)
+2025-09-10 14:57:15,418 - ERROR - $INFY.NS: possibly delisted; no price data found  (1d 2025-09-10 -> 2025-09-10)
+2025-09-10 14:57:15,659 - ERROR - $TECHM.NS: possibly delisted; no price data found  (1d 2025-09-10 -> 2025-09-10)
+2025-09-10 14:57:15,955 - ERROR - $BAJFINANCE.NS: possibly delisted; no price data found  (1d 2025-09-10 -> 2025-09-10)
+2025-09-10 14:57:16,244 - ERROR - $AXISBANK.NS: possibly delisted; no price data found  (1d 2025-09-10 -> 2025-09-10)
+2025-09-10 14:57:16,464 - ERROR - $SBILIFE.NS: possibly delisted; no price data found  (1d 2025-09-10 -> 2025-09-10)
+2025-09-10 14:57:16,766 - ERROR - $TATACONSUM.NS: possibly delisted; no price data found  (1d 2025-09-10 -> 2025-09-10)
+2025-09-10 14:57:17,047 - ERROR - $APOLLOHOSP.NS: possibly delisted; no price data found  (1d 2025-09-10 -> 2025-09-10)
+2025-09-10 14:57:18,406 - ERROR - $ADANIENT.NS: possibly delisted; no price data found  (1d 2025-09-10 -> 2025-09-10)
+2025-09-10 14:57:18,654 - ERROR - $NESTLEIND.NS: possibly delisted; no price data found  (1d 2025-09-10 -> 2025-09-10)
+2025-09-10 14:57:19,074 - ERROR - $SBIN.NS: possibly delisted; no price data found  (1d 2025-09-10 -> 2025-09-10)
+2025-09-10 14:57:19,352 - ERROR - $COALINDIA.NS: possibly delisted; no price data found  (1d 2025-09-10 -> 2025-09-10)
+2025-09-10 14:57:19,635 - ERROR - $DRREDDY.NS: possibly delisted; no price data found  (1d 2025-09-10 -> 2025-09-10)
+2025-09-10 14:57:19,967 - ERROR - $CIPLA.NS: possibly delisted; no price data found  (1d 2025-09-10 -> 2025-09-10)
+2025-09-10 14:57:20,249 - ERROR - $ADANIPORTS.NS: possibly delisted; no price data found  (1d 2025-09-10 -> 2025-09-10)
+2025-09-10 14:57:21,039 - ERROR - $LT.NS: possibly delisted; no price data found  (1d 2025-09-10 -> 2025-09-10)
+2025-09-10 14:57:21,320 - ERROR - $INDUSINDBK.NS: possibly delisted; no price data found  (1d 2025-09-10 -> 2025-09-10)
+2025-09-10 14:57:21,614 - ERROR - $KOTAKBANK.NS: possibly delisted; no price data found  (1d 2025-09-10 -> 2025-09-10)
+2025-09-10 14:57:21,849 - ERROR - $NTPC.NS: possibly delisted; no price data found  (1d 2025-09-10 -> 2025-09-10)
+2025-09-10 14:57:22,240 - ERROR - $ITC.NS: possibly delisted; no price data found  (1d 2025-09-10 -> 2025-09-10)
+2025-09-10 14:57:22,542 - ERROR - $BAJAJFINSV.NS: possibly delisted; no price data found  (1d 2025-09-10 -> 2025-09-10)
+2025-09-10 14:57:22,832 - ERROR - $ONGC.NS: possibly delisted; no price data found  (1d 2025-09-10 -> 2025-09-10)
+2025-09-10 14:57:23,122 - ERROR - $HINDALCO.NS: possibly delisted; no price data found  (1d 2025-09-10 -> 2025-09-10)
+2025-09-10 14:57:23,405 - ERROR - $ICICIBANK.NS: possibly delisted; no price data found  (1d 2025-09-10 -> 2025-09-10)
+2025-09-10 14:57:23,844 - ERROR - $RELIANCE.NS: possibly delisted; no price data found  (1d 2025-09-10 -> 2025-09-10)
+2025-09-10 14:57:24,344 - ERROR - $ASIANPAINT.NS: possibly delisted; no price data found  (1d 2025-09-10 -> 2025-09-10)
+2025-09-10 14:57:24,727 - ERROR - $SUNPHARMA.NS: possibly delisted; no price data found  (1d 2025-09-10 -> 2025-09-10)
+2025-09-10 14:57:25,013 - ERROR - $TATASTEEL.NS: possibly delisted; no price data found  (1d 2025-09-10 -> 2025-09-10)
+2025-09-10 14:57:25,318 - ERROR - $HDFCBANK.NS: possibly delisted; no price data found  (1d 2025-09-10 -> 2025-09-10)
+2025-09-10 14:57:25,687 - ERROR - $HINDUNILVR.NS: possibly delisted; no price data found  (1d 2025-09-10 -> 2025-09-10)
+2025-09-10 14:57:26,398 - ERROR - $BHARTIARTL.NS: possibly delisted; no price data found  (1d 2025-09-10 -> 2025-09-10)
+2025-09-10 14:57:26,707 - ERROR - $EICHERMOT.NS: possibly delisted; no price data found  (1d 2025-09-10 -> 2025-09-10)
+2025-09-10 14:57:26,965 - ERROR - $TITAN.NS: possibly delisted; no price data found  (1d 2025-09-10 -> 2025-09-10)
+2025-09-10 14:57:27,222 - ERROR - $POWERGRID.NS: possibly delisted; no price data found  (1d 2025-09-10 -> 2025-09-10)
+2025-09-10 14:57:28,056 - ERROR - $GRASIM.NS: possibly delisted; no price data found  (1d 2025-09-10 -> 2025-09-10)
+2025-09-10 14:57:28,608 - ERROR - $JSWSTEEL.NS: possibly delisted; no price data found  (1d 2025-09-10 -> 2025-09-10)
+2025-09-10 14:57:31,109 - ERROR - $ULTRACEMCO.NS: possibly delisted; no price data found  (1d 2025-09-10 -> 2025-09-10)
+2025-09-10 14:57:31,479 - ERROR - $TATAMOTORS.NS: possibly delisted; no price data found  (1d 2025-09-10 -> 2025-09-10)
+2025-09-10 14:57:31,932 - ERROR - $BAJAJ-AUTO.NS: possibly delisted; no price data found  (1d 2025-09-10 -> 2025-09-10)
+2025-09-10 14:57:32,240 - ERROR - $HEROMOTOCO.NS: possibly delisted; no price data found  (1d 2025-09-10 -> 2025-09-10)
+2025-09-10 14:57:32,525 - ERROR - $MARUTI.NS: possibly delisted; no price data found  (1d 2025-09-10 -> 2025-09-10)
+2025-09-10 14:57:32,983 - ERROR - $M&M.NS: possibly delisted; no price data found  (1d 2025-09-10 -> 2025-09-10)
+2025-09-10 14:57:32,985 - INFO - Data update completed: 50 stocks updated
+2025-09-10 14:57:32,985 - INFO - Retraining models due to changes...
+2025-09-10 14:57:32,985 - INFO - Starting model retraining...
+2025-09-10 15:15:59,570 - INFO - Model retraining completed successfully
+2025-09-10 15:15:59,571 - INFO - Base model MAPE: 2.40%
+2025-09-10 15:15:59,571 - INFO - Fine-tuned RELIANCE.NS MAPE: 1.44%
+2025-09-10 15:15:59,571 - INFO - Fine-tuned TCS.NS MAPE: 1.48%
+2025-09-10 15:15:59,571 - INFO - Fine-tuned HDFCBANK.NS MAPE: 1.53%
+2025-09-10 15:15:59,571 - INFO - Fine-tuned INFY.NS MAPE: 1.42%
+2025-09-10 15:15:59,571 - INFO - Fine-tuned ICICIBANK.NS MAPE: 1.55%
+2025-09-10 15:15:59,571 - INFO - ============================================================
+2025-09-10 15:15:59,571 - INFO - UPDATE PIPELINE COMPLETED SUCCESSFULLY
+2025-09-10 15:15:59,571 - INFO - Duration: 0:18:48.856542
+2025-09-10 15:15:59,571 - INFO - ============================================================

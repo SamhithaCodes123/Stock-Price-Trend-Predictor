@@ -1,0 +1,13 @@
+yfinance
+pandas
+numpy
+torch
+scikit-learn
+ta
+streamlit
+plotly
+matplotlib
+seaborn
+jupyter
+requests
+beautifulsoup4
